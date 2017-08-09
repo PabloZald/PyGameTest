@@ -13,9 +13,9 @@ Imagen tomada de https://opengameart.org/content/platformer-art-deluxe. Credit "
 Tomada de http://www.orangefreesounds.com/8-punk-8-bit-music/ Artist: SG8
 
 ## Sonido de salto
-Tomada de http://www.orangefreesounds.com/mario-jump-sound/
+Tomado de http://www.orangefreesounds.com/mario-jump-sound/
 
 ## Sonido de moneda para las bananas
-http://www.orangefreesounds.com/insert-coin-sound/ Artist: Alexander.
+Tomado de http://www.orangefreesounds.com/insert-coin-sound/ Artist: Alexander.
 
 ## Los sonidos han sido cambiados al formato .ogg
