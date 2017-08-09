@@ -7,7 +7,7 @@ Prueba de juego usando Pygame. Proyecto personal.
 - Pygame >= 1.9.3 #LGPL License
 
 
-## PARA INICIAR EL JUEGO SE DEBE CORRER EL MÓDULO LLAMADO game.py.
+## PARA INICIAR EL JUEGO SE DEBE CORRER EL MÓDULO LLAMADO game.py
 
 ## Fondo del Level_01 junglebackground.jpg
 Imagen tomada de https://jesse-m.itch.io/jungle-pack Credit. Jesse M.
