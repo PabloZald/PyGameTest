@@ -1,10 +1,13 @@
 # PyGameTest
 Game testing using Pygame. Personal project only for fun.
-Prueba de juego usando Pygme. Proyecto personal.
+Prueba de juego usando Pygame. Proyecto personal.
 
 ## Requisitos
 - Use Python >= 3 #PSF
 - Pygame >= 1.9.3 #LGPL License
+
+
+## PARA INICIAR EL JUEGO SE DEBE CORRER EL MÓDULO LLAMADO game.py.
 
 ## Fondo del Level_01 junglebackground.jpg
 Imagen tomada de https://jesse-m.itch.io/jungle-pack Credit. Jesse M.
